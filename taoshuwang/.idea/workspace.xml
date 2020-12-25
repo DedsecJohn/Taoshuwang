@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3be5287d-c262-47d7-9488-13eb305fb2f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven" />
+        <option name="userSettingsFile" value="D:\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kzJITyw33gcnozfAPn1neXK5dt" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.swu.ssm.taoshuwang.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.swu.ssm.taoshuwang.controller" />
+      <recent name="com.swu.ssm.taoshuwang.bean" />
+      <recent name="com.swu.ssm.taoshuwang.cache" />
+      <recent name="com.swu.ssm.taoshuwang.exception" />
+      <recent name="com.swu.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86155\Desktop\2020-09-08\taoshuwang\src\main\webapp" />
+      <recent name="C:\Users\86155\Desktop\2020-09-08\taoshuwang\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\86155\Desktop\2020-09-08\taoshuwang\src\main\java\com\swu\ssm\taoshuwang" />
+      <recent name="C:\Users\86155\Desktop\2020-09-08\taoshuwang\src\main" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3be5287d-c262-47d7-9488-13eb305fb2f0" name="Default Changelist" comment="" />
+      <created>1606697406310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606697406310</updated>
+      <workItem from="1606697409955" duration="457000" />
+      <workItem from="1606697909350" duration="1780000" />
+      <workItem from="1606699785467" duration="103000" />
+      <workItem from="1606699943967" duration="1750000" />
+      <workItem from="1606702324801" duration="1821000" />
+      <workItem from="1606704179539" duration="1850000" />
+      <workItem from="1606706068879" duration="402000" />
+      <workItem from="1606734684079" duration="1793000" />
+      <workItem from="1606736607225" duration="1968000" />
+      <workItem from="1606740016959" duration="771000" />
+      <workItem from="1606787358285" duration="1410000" />
+      <workItem from="1606789758928" duration="1603000" />
+      <workItem from="1606791447113" duration="1559000" />
+      <workItem from="1606793323209" duration="1792000" />
+      <workItem from="1606795578558" duration="1847000" />
+      <workItem from="1606797950113" duration="1795000" />
+      <workItem from="1606799763380" duration="456000" />
+      <workItem from="1606873080258" duration="700000" />
+      <workItem from="1606888690505" duration="954000" />
+      <workItem from="1606890242461" duration="1863000" />
+      <workItem from="1606892413583" duration="1813000" />
+      <workItem from="1606894260872" duration="575000" />
+      <workItem from="1606895786320" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606704637636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="326" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1606704637636" />
+    <state x="547" y="270" width="472" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606737561542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="547" y="270" width="472" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1606737561542" />
+    <state x="498" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606705069649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606705069649" />
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1606699426248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606699426248" />
+    <state x="298" y="66" key="Maven.ArtifactSearchDialog" timestamp="1606704715003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="298" y="66" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1606704715003" />
+    <state x="248" y="0" key="SettingsEditor" timestamp="1606706028926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="248" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606706028926" />
+    <state x="447" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1606895786589">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1606895786589" />
+  </component>
+</project>

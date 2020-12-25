@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.swu.ssm.taoshuwang.mapper.ArticleMapper">
+
+    <!--查询文章列表:加分页，多条件复杂查询-->
+    <select id="articleList" resultType="map">
+      select * from t_article a left join t_tag t
+        on a.tag_id = t.tid left join t_user u
+        on a.uid = u.id
+        <where>
+            <if test="tid != null and tid != '' and tid != -1">
+                and a.tag_id=#{tid}
+            </if>
+            <if test="title != null and title != ''">
+                and a.title like concat('%',#{title},'%')
+            </if>
+            <if test="start != null">
+               and a.create_time > #{start}
+            </if>
+            <if test="end != null">
+                and a.create_time &lt; #{end}
+            </if>
+        </where>
+    </select>
+
+    <!--根据主键查询文章-->
+    <select id="queryById" resultType="map">
+        select * from t_article a left join t_tag t
+        on a.tag_id = t.tid left join t_user u
+        on a.uid = u.id
+        where a.aid=#{aid}
+    </select>
+
+    <!--查询最新发布的10篇文章-->
+    <select id="latest10" resultType="map">
+         select * from t_article a left join t_tag t
+        on a.tag_id = t.tid left join t_user u
+        on a.uid = u.id order by create_time desc limit 10
+    </select>
+
+    <!--查询热门文章-->
+    <select id="hotArticles" resultType="map">
+         select * from t_article a left join t_tag t
+        on a.tag_id = t.tid left join t_user u
+        on a.uid = u.id where is_hot=1
+    </select>
+
+    <!--根据标签主键查询对应文章-->
+    <select id="articlesByTag" resultType="map">
+        select * from t_article a left join t_tag t
+        on a.tag_id = t.tid left join t_user u
+        on a.uid = u.id
+        <where>
+            <if test="tid!=null and tid!=''">
+                t.tid=#{tid}
+            </if>
+        </where>
+    </select>
+</mapper>
